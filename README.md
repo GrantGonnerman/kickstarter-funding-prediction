@@ -9,7 +9,7 @@ This project builds machine learning models to predict the success or failure of
 Crowdfunding success is difficult to predict. Accurate models can help project creators make data-driven decisions on goal setting, campaign strategy, and marketing, while helping backers identify promising projects.
 
 ## 🗂️ Dataset
-- **Source**: Kickstarter projects dataset (loaded from AWS S3)
+- **Source**: Kickstarter projects dataset ([Kaggle](https://www.kaggle.com/datasets/oscarvilla/kickstarter-nlp))
 - **Target**: Binary classification (`successful` vs `failed`)
 - **Features**: Project goal, pledged amount, duration, category, country, number of backers, sentiment in project description, launch timing, etc.
 
